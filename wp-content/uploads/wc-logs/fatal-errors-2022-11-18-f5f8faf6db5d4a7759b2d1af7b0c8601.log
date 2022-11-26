@@ -1,0 +1,40 @@
+2022-11-18T16:25:45+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class B2bkingcore does not have a method "b2bking_dismiss_onboarding_admin_notice" in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wp\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wp\wp-admin\admin-ajax.php(188): do_action('wp_ajax_b2bking...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php on line 308
+
+2022-11-18T16:26:40+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class B2bkingcore does not have a method "b2bking_dismiss_onboarding_admin_notice" in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wp\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wp\wp-admin\admin-ajax.php(188): do_action('wp_ajax_b2bking...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php on line 308
+
+2022-11-18T16:26:41+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class B2bkingcore does not have a method "b2bking_dismiss_onboarding_admin_notice" in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wp\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wp\wp-admin\admin-ajax.php(188): do_action('wp_ajax_b2bking...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php on line 308
+
+2022-11-18T16:32:09+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class B2bkingcore does not have a method "b2bking_dismiss_onboarding_admin_notice" in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wp\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wp\wp-admin\admin-ajax.php(188): do_action('wp_ajax_b2bking...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php on line 308
+
+2022-11-18T16:32:13+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class B2bkingcore does not have a method "b2bking_dismiss_onboarding_admin_notice" in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wp\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wp\wp-admin\admin-ajax.php(188): do_action('wp_ajax_b2bking...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp\wp-includes\class-wp-hook.php on line 308
+
